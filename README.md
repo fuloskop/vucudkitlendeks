@@ -1,2 +1,2 @@
 # Vucut Kitle Endeksi
-link eklenecek
+link https://vucutkitleendeksfuloskop.netlify.app
